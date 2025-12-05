@@ -1,0 +1,32 @@
+[
+  {
+    "email": "isha.gayatrinimbolkar2952@gmail.com",
+    "password": "$2b$10$qVMgEhqVXM6J807m.Gd.AutJYSC0WBd4T8UOUt1zM5/ulGUvLlTYm",
+    "history": [
+      {
+        "from": "USD",
+        "to": "EUR",
+        "amount": 1,
+        "rate": 0.8646,
+        "result": 0.8646,
+        "timestamp": 1764524369442
+      },
+      {
+        "from": "USD",
+        "to": "EUR",
+        "amount": 1,
+        "rate": 0.8646,
+        "result": 0.8646,
+        "timestamp": 1764525106852
+      },
+      {
+        "from": "USD",
+        "to": "EUR",
+        "amount": 1,
+        "rate": 0.8646,
+        "result": 0.8646,
+        "timestamp": 1764525107616
+      }
+    ]
+  }
+]
