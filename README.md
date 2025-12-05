@@ -98,7 +98,7 @@ Users can:
 Screennshots of the Project
 
 * Login Page
-![Login Screenshot](./screenshots/Login Page.png)
+![Login Screenshot](./screenshots/LoginPage.png)
 
 * Main Interface
 * ![Converter Screenshot](./screenshots/Main.png)
