@@ -98,7 +98,7 @@ Users can:
 Screennshots of the Project
 
 * Login Page
-![Login Screenshot](./screenshots/LoginPage.png)
+![Login Screenshot](./screenshots/Login Page.png)
 
 * Main Interface
 * ![Converter Screenshot](./screenshots/MainPage.png)
@@ -107,7 +107,7 @@ Screennshots of the Project
 
 
 * Conversion History Page
-![History Screenshot](./screenshots/history.png)
+![History Screenshot](./screenshots/History.png)
 
 
 
