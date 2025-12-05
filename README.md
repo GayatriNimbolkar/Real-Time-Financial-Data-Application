@@ -138,7 +138,7 @@ It showcases real-world, industry-style cloud development practices and integrat
 
 ---
 
-# 🔧 8. Setup Instructions (For Anyone Who Wants to Run the Project)
+#  8. Setup Instructions (For Anyone Who Wants to Run the Project)
 
 Follow these steps to run the project locally.
 
