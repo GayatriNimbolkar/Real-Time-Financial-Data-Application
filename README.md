@@ -205,8 +205,8 @@ docker run -p 8080:8080 currency-converter
 
 **Contributors**
 
-*Gayatri Nimbolkar 
+* Gayatri Nimbolkar 
 
-*Ruchira Patil 
+* Ruchira Patil 
 
-*Larry Lopes 
+* Larry Lopes 
