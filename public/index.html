@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Currency Converter</title>
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- React + Babel -->
+  <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <!-- 🔥 Firebase 8-style (Compat Mode) -->
+  <script src="https://www.gstatic.com/firebasejs/10.5.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.5.0/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.5.0/firebase-firestore-compat.js"></script>
+
+  <script>
+    // Initialize Firebase
+    firebase.initializeApp({
+      apiKey: "AIzaSyC3EmdInaDNk58O-vEutoGxgqKYRmrUN0Q",
+      authDomain: "currency-converter-app-9ca42.firebaseapp.com",
+      projectId: "currency-converter-app-9ca42",
+      storageBucket: "currency-converter-app-9ca42.appspot.com",
+      messagingSenderId: "946865660910",
+      appId: "1:946865660910:web:0d616acb59f4cedcd324ff",
+      measurementId: "G-YCJSLS3QQL"
+    });
+  </script>
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <div id="navbar-root"></div>
+
+  <!-- DROPDOWN HISTORY -->
+  <div id="history-root"></div>
+
+  <!-- AUTH UI -->
+  <div id="auth-root"></div>
+
+  <!-- MAIN APP -->
+  <div id="root"></div>
+
+  <!-- FLAGS FILE -->
+  <script src="flags.js"></script>
+
+  <!-- REACT APP -->
+  <script type="text/babel" src="script.js"></script>
+
+</body>
+</html>
+

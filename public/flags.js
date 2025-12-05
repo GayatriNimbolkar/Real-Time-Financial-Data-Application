@@ -1,0 +1,22 @@
+// Currency → Country Code mapping for emoji flags
+window.currencyFlags = {
+  USD: "us",
+  EUR: "eu",
+  INR: "in",
+  GBP: "gb",
+  CAD: "ca",
+  AUD: "au",
+  JPY: "jp",
+  NZD: "nz",
+  CHF: "ch",
+  CNY: "cn",
+  SEK: "se",
+  NOK: "no",
+  RUB: "ru",
+  SGD: "sg",
+  HKD: "hk",
+  KRW: "kr",
+  MXN: "mx",
+  BRL: "br",
+  ZAR: "za",
+};
